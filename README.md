@@ -1,1 +1,1 @@
-# Simple-Websocket-Android-Example
+# Simple WebSocket Android
